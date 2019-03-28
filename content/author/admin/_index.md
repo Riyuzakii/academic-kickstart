@@ -59,11 +59,6 @@ user_groups = ["Researchers", "Visitors"]
   link = "https://twitter.com/light160053"
 
 [[social]]
-  icon = "google-scholar"
-  icon_pack = "ai"
-  link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
-
-[[social]]
   icon = "github"
   icon_pack = "fab"
   link = "https://github.com/Riyuzakii"
@@ -81,8 +76,8 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-I am an undergraduate researcher at the [CAR3S](https://www.cse.iitk.ac.in/users/biswap/CARS.html) research group at IIT Kanpur working with [Dr. Biswabandan Panda](https://www.cse.iitk.ac.in/users/biswap/). My research interests mainly lie in computer architecture and secure memory hierarchies. 
+I am an undergraduate researcher at the [CAR3S](https://www.cse.iitk.ac.in/users/biswap/CARS.html) research group at IIT Kanpur working with [Dr. Biswabandan Panda](https://www.cse.iitk.ac.in/users/biswap/). My research interests mainly lie in computer architecture and developing secure memory hierarchies. 
 
-I've also had the good fortune of working with amazing professors like [Dr. Kanad Basu](https://engineering.nyu.edu/faculty/kanad-basu) and [Dr. Debadatta Mishra](https://www.cse.iitk.ac.in/users/deba/). I'll be spending 13 weeks of my upcoming summer at NYU Tandon School of Engineering, working with [Dr. Ramesh Karri](https://engineering.nyu.edu/faculty/ramesh-karri), as a research intern.
+I've also had the good fortune of working with other amazing professors like [Dr. Kanad Basu](https://engineering.nyu.edu/faculty/kanad-basu) and [Dr. Debadatta Mishra](https://www.cse.iitk.ac.in/users/deba/). I'll be spending 13 weeks of my upcoming summer at NYU Tandon School of Engineering, working with [Dr. Ramesh Karri](https://engineering.nyu.edu/faculty/ramesh-karri), as a research intern.
 
 Apart from my academic endeavours, I love to read fiction, especially written by 19th century European authors. I absolutely adore the works of Sir Arthur Conan Doyle, Bram Stoker, Mary Shelly and Jane Austen. 
