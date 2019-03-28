@@ -8,7 +8,10 @@ active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
 title = "Recent Publications"
-subtitle = ""
+subtitle = "DAC"
+summary = "Repurposing debug hardware for malware detection."
+
+#subtitle = "HASP"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.

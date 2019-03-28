@@ -1,4 +1,4 @@
-+++
+<!-- +++
 # People widget.
 widget = "people"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
@@ -17,3 +17,4 @@ user_groups = ["Principal Investigators",
                "Visitors",
                "Alumni"]
 +++
+ -->
