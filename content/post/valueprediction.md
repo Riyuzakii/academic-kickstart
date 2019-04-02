@@ -13,7 +13,7 @@ image = ""
 caption = ""
 +++
 
-On Feb. 29th, 2019 we had a guest lecture from Dr. Arthur Perais, from Microsoft. Dr. Perais works on core architecture in general but specializes in Value Prediction techniques and talked about the same. Value prediction was first introduced in the mid-1990s by several research groups independently. But at the time it’s fame was ephemeral, as the community realized the insuperable nature of its implementation. It’s only with the Dennard Scaling and the slow down of Moore’s law that the researchers are looking in every direction(±x, ±y, ±z, and ±t) to find ways to improve performance. 
+On Jan. 29th, 2019 we had a guest lecture from Dr. Arthur Perais, from Microsoft. Dr. Perais works on core architecture in general but specializes in Value Prediction techniques and talked about the same. Value prediction was first introduced in the mid-1990s by several research groups independently. But at the time it’s fame was ephemeral, as the community realized the insuperable nature of its implementation. It’s only with the Dennard Scaling and the slow down of Moore’s law that the researchers are looking in every direction(±x, ±y, ±z, and ±t) to find ways to improve performance. 
 Now, If you’ve heard of speculative execution, the chances are that you’ve heard of or can guess what value prediction is. The basic idea is to predict the results of instructions based on previously seen results.
 
 

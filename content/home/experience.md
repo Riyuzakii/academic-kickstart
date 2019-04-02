@@ -25,9 +25,11 @@ date_format = "Jan 2006"
   date_start = "2017-05-15"
   date_end = "2018-07-15"
   description = """
-
+  Worked on container and cluster managment with tools like Docker and Kubernetes.
   Responsibilities include:
+
   * System Administration
+  
   * Team Leader
   """
 
