@@ -28,15 +28,15 @@ description = ""
   
   [[content.filter_button]]
      name = "Computer Architecture"
-     tag = "Computer Architecture"
+     tag = "CA"
   
    [[content.filter_button]]
      name = "Operating Systems"
-     tag = "Operating Systems"
+     tag = "OS"
 
    [[content.filter_button]]
      name = "Security"
-     tag =  "Security"
+     tag =  "Sec"
 
    [[content.filter_button]]
      name = "Others"

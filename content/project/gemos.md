@@ -2,7 +2,8 @@
 +++
 title = "GemOS"
 date = "2019-02-15"
-summary = "What's this project about?"
+summary = "Created Basic Operating System"
+tag = "OS"
 # View.
 #   1 = List
 #   2 = Compact
@@ -14,3 +15,5 @@ view = 1
 image = ""
 caption = ""
 +++
+
+Created and OS with basic functionalities like signal/exception/interrupt handlers, multi-level paging, file-system.

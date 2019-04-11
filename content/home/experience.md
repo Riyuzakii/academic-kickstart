@@ -18,7 +18,7 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Intern"
+  title = "Sofware Engineering Intern"
   company = "Infrastructure Group, NYO IITK"
   company_url = ""
   location = "Kanpur"
@@ -43,12 +43,12 @@ date_format = "Jan 2006"
   description = """Developed a new malware detection technique based on debug hardware. Research in progress."""
 
 [[experience]]
-  title = "Member"
+  title = "Vision Developer"
   company = "Intelligent Ground Vehicle Competition(IGVC)"
   company_url = "https://igvc-iitk.github.io/"
   location = "Kanpur"
   date_start = "2017-09-30"
   date_end = "2018-06-30"
-  description = """Designed a real time Lane Detection Algorithm and the complete computer vision pipeline for the ground vehicle."""
+  description = """Designed a real time Lane Detection Algorithm and the complete computer vision subsystem for the ground vehicle."""
 
 +++

@@ -2,7 +2,7 @@
 +++
 title = "Parallel I/O Profiling"
 date = "2019-02-15"
-summary = "What's this project about?"
+summary = "Profiled IITK Supercomputer HPC2010 with various I/O benchmarks to find congestion points."
 # View.
 #   1 = List
 #   2 = Compact
