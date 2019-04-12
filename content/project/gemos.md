@@ -1,8 +1,8 @@
 
 +++
 title = "GemOS"
-date = "2019-02-15"
-summary = "Created Basic Operating System"
+date = "2018-11-01"
+summary = "Created an OS with basic functionalities like signal/exception/interrupt handlers, multi-level paging and file-system."
 tag = "OS"
 # View.
 #   1 = List
@@ -16,4 +16,3 @@ image = ""
 caption = ""
 +++
 
-Created and OS with basic functionalities like signal/exception/interrupt handlers, multi-level paging, file-system.

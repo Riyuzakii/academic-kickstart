@@ -1,8 +1,8 @@
 
 +++
 title = "IGVC"
-date = "2019-02-15"
-summary = "What's this project about?"
+date = "2017-12-01"
+summary = "Autonomous Navigation Vehicle"
 # View.
 #   1 = List
 #   2 = Compact

@@ -1,8 +1,8 @@
 
 +++
 title = "Parallel I/O Profiling"
-date = "2019-02-15"
-summary = "Profiled IITK Supercomputer HPC2010 with various I/O benchmarks to find congestion points."
+date = "2019-01-15"
+summary = "Profiled IITK Supercomputer HPC2010 with various I/O benchmarks to find semi-topology aware optimizations."
 # View.
 #   1 = List
 #   2 = Compact

@@ -1,8 +1,8 @@
 
 +++
 title = "Streamers"
-date = "2019-02-15"
-summary = "Reverse Engineering Stream Prefetcher"
+date = "2018-12-15"
+summary = "Reverse Engineering the Stream Prefetcher"
 # View.
 #   1 = List
 #   2 = Compact

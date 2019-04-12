@@ -1,8 +1,9 @@
 
 +++
 title = "TLBleed"
-date = "2019-02-15"
-summary = "TLB-based Side-Channel-Attack"
+date = "2018-11-20"
+summary = "Mounted a TLB-based side-channel attack on various Intel processors."
+tag = "CA"
 # View.
 #   1 = List
 #   2 = Compact
