@@ -1,7 +1,7 @@
 +++
-title = "Reverse Engineering the Stream Prefetcher For Profit"
-date = "2019-05-15"
-summary = "**Accepted** at HASP'2019, in conjunction with ISCA 2019."
+title = "Repurposing Debug Hardware for Malware Detection"
+date = "2019-05-25"
+summary = "**In Proceedings** of 28th IEEE ATS'2019."
 # View.
 #   1 = List
 #   2 = Compact
