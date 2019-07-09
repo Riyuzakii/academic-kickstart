@@ -57,7 +57,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "New York City, USA"
   date_start = "2019-05-02"
-  date_end = "2018-08-02"
+  date_end = "2019-08-02"
   description = """Developing a scalable anomaly detection technique based on various hardware modalities."""
 
 +++
