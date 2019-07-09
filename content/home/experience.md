@@ -40,7 +40,7 @@ date_format = "Jan 2006"
   location = "Kanpur"
   date_start = "2018-05-15"
   date_end = "2018-11-30"
-  description = """Developed a new malware detection technique based on debug hardware. Research in progress."""
+  description = """Developed a new malware detection technique based on debug hardware. Work submitted at IEEE ATS'19"""
 
 [[experience]]
   title = "Vision Developer"
@@ -50,5 +50,14 @@ date_format = "Jan 2006"
   date_start = "2017-09-30"
   date_end = "2018-06-30"
   description = """Designed a real time Lane Detection Algorithm and the complete computer vision subsystem for the ground vehicle."""
+
+[[experience]]
+  title = "Associate Research Scientist"
+  company = "New York University"
+  company_url = ""
+  location = "New York City, USA"
+  date_start = "2019-05-02"
+  date_end = "2018-08-02"
+  description = """Developing a scalable anomaly detection technique based on various hardware modalities."""
 
 +++
