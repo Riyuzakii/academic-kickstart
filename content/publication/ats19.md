@@ -1,7 +1,7 @@
 +++
 title = "Repurposing Debug Hardware for Malware Detection"
 date = "2019-05-25"
-summary = "**In Proceedings** of 28th IEEE ATS'2019."
+summary = "**In Submission** at 28th IEEE ATS'2019."
 # View.
 #   1 = List
 #   2 = Compact
