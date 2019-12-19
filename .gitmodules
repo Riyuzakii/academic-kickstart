@@ -5,3 +5,6 @@
 	path = public
 	url = https://github.com/Riyuzakii/Riyuzakii.github.io.git
 	branch = master
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
