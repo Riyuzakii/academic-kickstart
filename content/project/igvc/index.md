@@ -12,7 +12,7 @@ links:
 - name: Web Page
   url: https://igvc-iitk.github.io/
 url_code: ""
-url_pdf: ""
+url_pdf: "files/igvc.pdf"
 url_slides: ""
 url_video: ""
 

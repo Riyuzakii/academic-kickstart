@@ -31,7 +31,7 @@ featured: true
 links:
 - name: Conference Link
   url: http://ats2019.iiests.ac.in/prgrm/
-url_pdf: 
+url_pdf: "files/ats.pdf"
 url_code:
 url_dataset:
 url_poster:
