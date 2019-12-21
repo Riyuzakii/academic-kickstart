@@ -1,14 +1,14 @@
 ---
-title: "WiP: Reverse Engineering the Stream Prefetcher for Profit"
+title: "[Poster] Whispering Streamers: Covert Channel Through Stream Prefetchers"
 authors:
 - Aditya Rohan
-- Prakhar Agarwal
 - Biswabandan Panda
-date: "2019-05-15T00:00:00Z"
+- Prakhar Agarwal
+date: "2019-08-29T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-#publishDate: "2019-06-23T00:00:00Z"
+#publishDate: "2019-10-14T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -17,8 +17,8 @@ doi: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In * HASP Workshop at 46th IEEE/ACM International Symposium on Computer Architecture, 2019*
-publication_short: In *HASP@ISCA'19*
+publication: In * ACM Student Research Competition at 52nd IEEE/ACM International Symposium on Microarchitecture, 2019*
+publication_short: In *ACM SRC@MICRO'19*
 
 abstract: 
 
@@ -28,7 +28,7 @@ featured: true
 
 links:
 - name: Workshop Link
-  url: http://caslab.csl.yale.edu/workshops/hasp2019/
+  url: https://www.microarch.org/micro52/program/src.html
 url_pdf: 
 url_code:
 url_dataset:

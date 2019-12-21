@@ -71,9 +71,9 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-I am a senior undergrad at IIT Kanpur with an interest in memory systems, operating systems and all things computer architecture. 
-In the past I worked as an undegraduate researcher at the [CAR3S](https://www.cse.iitk.ac.in/users/biswap/CARS.html) research group at IIT Kanpur working with [Biswa](https://www.cse.iitk.ac.in/users/biswap/). 
+I am a senior undergrad at IIT Kanpur with an interest in memory systems, operating systems, and all things computer architecture. 
+In the past, I worked as an undergraduate researcher at the [CAR3S](https://www.cse.iitk.ac.in/users/biswap/CARS.html) research group at IIT Kanpur, with [Biswa](https://www.cse.iitk.ac.in/users/biswap/). 
 
 I've also had the good fortune of working with other amazing professors like [Dr. Kanad Basu](https://engineering.nyu.edu/faculty/kanad-basu) and [Dr. Debadatta Mishra](https://www.cse.iitk.ac.in/users/deba/). I spent 13 weeks of my recent summer at NYU Tandon School of Engineering, working with [Dr. Ramesh Karri](https://engineering.nyu.edu/faculty/ramesh-karri), as a research intern.
 
-Apart from my academic endeavors, I love to read fiction, primarily written by 19th-century European authors. I absolutely adore the works of Sir Arthur Conan Doyle, Bram Stoker, Mary Shelly, and Jane Austen. I prefer western classical music over other forms of music. My current favourite, at least from the last 2 and half years, is Prelude No. 1 in C Major, by Bach [[link](https://www.youtube.com/watch?v=PXMVkQ70I88)]. I'm also an appreciator of the Japanese art form of 'Anime'.
+Apart from my academic endeavors, I love to read fiction, primarily written by 19th-century European authors. I absolutely adore the works of Sir Arthur Conan Doyle, Bram Stoker, Mary Shelly, and Jane Austen. I prefer western classical music over other forms of music. My current favorite, at least from the last two and half years, is Prelude No. 1 in C Major by Bach [[link](https://www.youtube.com/watch?v=PXMVkQ70I88)]. I'm also an appreciator of the Japanese art form of 'Anime.'
