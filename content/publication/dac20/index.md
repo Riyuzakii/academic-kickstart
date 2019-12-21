@@ -1,7 +1,7 @@
 ---
 title: "Reverse Engineering the Stream Prefetcher for Profit"
 authors:
-- Aditya Rohan
+- A**ditya Rohan**
 - Biswabandan Panda
 - Prakhar Agarwal
 date: "2019-11-27T00:00:00Z"

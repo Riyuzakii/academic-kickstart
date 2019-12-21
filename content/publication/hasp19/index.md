@@ -1,7 +1,7 @@
 ---
 title: "WiP: Reverse Engineering the Stream Prefetcher for Profit"
 authors:
-- Aditya Rohan
+- A**ditya Rohan**
 - Prakhar Agarwal
 - Biswabandan Panda
 date: "2019-05-15T00:00:00Z"

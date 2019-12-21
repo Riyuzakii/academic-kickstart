@@ -1,7 +1,7 @@
 ---
 title: "[Poster] Whispering Streamers: Covert Channel Through Stream Prefetchers"
 authors:
-- Aditya Rohan
+- A**ditya Rohan**
 - Biswabandan Panda
 - Prakhar Agarwal
 date: "2019-08-29T00:00:00Z"

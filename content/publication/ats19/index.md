@@ -1,7 +1,7 @@
 ---
 title: "Can Monitoring System State + Instruction Sequences aid Malware Detection?"
 authors:
-- Aditya Rohan
+- A**ditya Rohan**
 - Kanad Basu
 - Ramesh Karri
 date: "2019-12-13T00:00:00Z"
